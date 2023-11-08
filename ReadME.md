@@ -2,7 +2,7 @@
 
 ## Assignment
 # download project
-$ git clone https://github.com/thazinphyoit/CodingAccessment
+$ git clone https://github.com/thazinphyoit/CodingAccessment.git
 
 => move to the project root directory
 
